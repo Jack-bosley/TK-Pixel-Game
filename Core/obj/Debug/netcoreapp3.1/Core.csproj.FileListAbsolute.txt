@@ -1,0 +1,15 @@
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\bin\Debug\netcoreapp3.1\Enums.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Core.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Core.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Core.pdb

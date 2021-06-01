@@ -1,0 +1,12 @@
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Enums.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Enums.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Enums.pdb

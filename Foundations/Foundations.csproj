@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PixelGame.Foundations</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>..\Assemblies\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Core">
+      <HintPath>..\Assemblies\netcoreapp3.1\Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Enums">
+      <HintPath>..\Assemblies\netcoreapp3.1\Enums.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="OpenGL\" />
+    <Folder Include="OpenGL\Texture\" />
+    <Folder Include="OpenGL\Shader\" />
+  </ItemGroup>
+
+</Project>

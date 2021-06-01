@@ -1,0 +1,12 @@
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\bin\Debug\netcoreapp3.1\Components.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\bin\Debug\netcoreapp3.1\Components.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\obj\Debug\netcoreapp3.1\Components.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Components\obj\Debug\netcoreapp3.1\Components.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Components.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Components.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Components.pdb

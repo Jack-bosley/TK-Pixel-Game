@@ -1,0 +1,10 @@
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Foundations.deps.json
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Foundations.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Assemblies\netcoreapp3.1\Foundations.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.csprojAssemblyReference.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.AssemblyInfoInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.AssemblyInfo.cs
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.csproj.CoreCompileInputs.cache
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.dll
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.pdb
+D:\Code\C_Sharp\Repos\TK-Pixel-Game\Foundations\obj\Debug\netcoreapp3.1\Foundations.csproj.CopyComplete

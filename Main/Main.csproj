@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PixelGame</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <OutputPath>..\Assemblies\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="4.6.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Components">
+      <HintPath>..\Assemblies\netcoreapp3.1\Components.dll</HintPath>
+    </Reference>
+    <Reference Include="Core">
+      <HintPath>..\Assemblies\netcoreapp3.1\Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Entities">
+      <HintPath>..\Assemblies\netcoreapp3.1\Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="Entity_Component">
+      <HintPath>..\Assemblies\netcoreapp3.1\Entity_Component.dll</HintPath>
+    </Reference>
+    <Reference Include="Enums">
+      <HintPath>..\Assemblies\netcoreapp3.1\Enums.dll</HintPath>
+    </Reference>
+    <Reference Include="Foundations">
+      <HintPath>..\Assemblies\netcoreapp3.1\Foundations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

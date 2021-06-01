@@ -1,0 +1,32 @@
+[Msg]	31/05/2021 19:53:58:	Hello world
+[Wng]	31/05/2021 19:53:58:	Hello world
+[Err]	31/05/2021 19:53:58:	Hello world
+[Msg]	31/05/2021 20:11:34:	Hello world
+[Wng]	31/05/2021 20:11:34:	Hello world
+[Err]	31/05/2021 20:11:34:	Hello world
+[Msg]	31/05/2021 20:55:14:	Hello world
+[Wng]	31/05/2021 20:55:14:	Hello world
+[Err]	31/05/2021 20:55:14:	Hello world
+[Msg]	31/05/2021 21:56:52:	1
+[Wng]	31/05/2021 21:56:52:	Hello world
+[Err]	31/05/2021 21:56:52:	Hello world
+[Msg]	31/05/2021 21:57:07:	muo
+[Wng]	31/05/2021 21:57:07:	Hello world
+[Err]	31/05/2021 21:57:07:	Hello world
+[Msg]	31/05/2021 21:57:27:	0000000muo
+[Wng]	31/05/2021 21:57:27:	Hello world
+[Err]	31/05/2021 21:57:27:	Hello world
+[Err]	01/06/2021 10:40:11:	Test except
+
+[Err]	01/06/2021 10:41:22:	Test except
+
+[Err]	01/06/2021 10:43:15:	Test except
+   at PixelGame.Game.OnLoad() in D:\Code\C_Sharp\Repos\TK-Pixel-Game\Main\Game.cs:line 33
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at PixelGame.Program.Main(String[] args) in D:\Code\C_Sharp\Repos\TK-Pixel-Game\Main\Program.cs:line 25
+[Err]	01/06/2021 11:01:24:	Warning
+
+[Wng]	01/06/2021 11:01:52:	Warning
+
+[Wng] (01/06/2021 11:03:36):Warning
+
