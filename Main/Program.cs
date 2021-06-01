@@ -11,14 +11,20 @@ namespace PixelGame
     {
         static void Main(string[] args)
         {
-            var nativeWindowSettings = new NativeWindowSettings()
+            GameWindowSettings gameWindowSettings = new GameWindowSettings()
+            {
+                IsMultiThreaded = true,
+                RenderFrequency = 60,
+                UpdateFrequency = double.MaxValue,
+            };
+            NativeWindowSettings nativeWindowSettings = new NativeWindowSettings()
             {
                 Size = new Vector2i(800, 600),
-                Title = "LearnOpenTK - Creating a Window",
+                Title = "PixelGame",
             };
 
             // To create a new window, create a class that extends GameWindow, then call Run() on it.
-            using Game gameWindow = new Game(GameWindowSettings.Default, nativeWindowSettings);
+            using Game gameWindow = new Game(gameWindowSettings, nativeWindowSettings);
 
             try
             {
@@ -26,7 +32,7 @@ namespace PixelGame
             }
             catch (Exception e)
             {
-                Logger.LogException(e);
+                Logger.Log(e);
             }
         }
     }

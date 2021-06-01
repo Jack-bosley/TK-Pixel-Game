@@ -10,7 +10,6 @@ using OpenTK.Graphics.OpenGL;
 using PixelGame.Core.Logging;
 using PixelGame.Core.Enums;
 using PixelGame.Entity_Component;
-using PixelGame.Foundations.Scene;
 
 namespace PixelGame
 {
@@ -21,11 +20,7 @@ namespace PixelGame
         public Game(GameWindowSettings gameWindowSettings, NativeWindowSettings nativeWindowSettings)
             : base(gameWindowSettings, nativeWindowSettings)
         {
-            Logger.target = new LogTarget()
-            {
-                targetType = LogTargetType.Both,
-                fileDirectory = LogTarget.DefaultPath,
-            };
+
         }
 
         protected override void OnLoad()
@@ -54,9 +49,15 @@ namespace PixelGame
         {
             UpdateInputs();
             Update();
-            Draw();
 
             GLUpdateFrame(e);
+        }
+
+        protected override void OnRenderFrame(FrameEventArgs e)
+        {
+            Draw();
+
+            GLRenderFrame(e);
         }
 
         protected void UpdateInputs()
@@ -132,6 +133,11 @@ namespace PixelGame
         private void GLUpdateFrame(FrameEventArgs e)
         {
             base.OnUpdateFrame(e);
+        }
+
+        private void GLRenderFrame(FrameEventArgs e)
+        {
+            base.OnRenderFrame(e);
         }
 
         #endregion

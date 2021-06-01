@@ -87,7 +87,7 @@ namespace PixelGame.Entity_Component
             {
                 if (typeIndex.ContainsKey(component.GetType()) && typeIndex[component.GetType()].Count > 0)
                 {
-                    Logger.LogException(new WarningException($"Warning, entity {GetType().Name} ({Id}) already has a component of type {component.GetType().Name}"));
+                    Logger.Log(new WarningException($"Warning, entity {GetType().Name} ({Id}) already has a component of type {component.GetType().Name}"));
                     return;
                 }
             }
@@ -171,7 +171,7 @@ namespace PixelGame.Entity_Component
 
             if (!components[id].IsRemovable)
             {
-                Logger.LogException(new WarningException($"Warning, component of type {components[id].GetType().Name} cannot be removed"));
+                Logger.Log(new WarningException($"Warning, component of type {components[id].GetType().Name} cannot be removed"));
                 return;
             }
 
@@ -189,7 +189,7 @@ namespace PixelGame.Entity_Component
             {
                 if (!components[id].IsRemovable)
                 {
-                    Logger.LogException(new WarningException($"Warning, component of type {components[id].GetType().Name} cannot be removed"));
+                    Logger.Log(new WarningException($"Warning, component of type {components[id].GetType().Name} cannot be removed"));
                     continue;
                 }
 

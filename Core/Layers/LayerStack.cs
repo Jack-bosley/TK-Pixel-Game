@@ -42,7 +42,7 @@ namespace PixelGame.Core.Layers
             }
             else
             {
-                Logger.LogException(new Exception($"Maximum layer count ({MaxLayers}) has been reached"));
+                Logger.Log(new Exception($"Maximum layer count ({MaxLayers}) has been reached"));
             }
         }
 
